@@ -1,0 +1,13 @@
+*.class
+*.war
+*.ear
+*.*~
+.~lock*
+.classpath
+.settings/
+.project
+target/
+.metadata/
+*.swp
+.idea
+*.iml
